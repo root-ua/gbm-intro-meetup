@@ -1,2 +1,6 @@
 # gbm-intro-meetup
-Intro to GBM
+Introduction to GBM
+
+## Install required Python packages
+
+  pip install --upgrade -r requirements.txt
